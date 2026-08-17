@@ -1,0 +1,31 @@
+© 2025 biounix. All rights reserved.
+
+LICENSE: Use of these materials (including all code, prompts, assets, files,
+and other components of this Skill) is governed by your agreement with the
+copyright holder regarding use of this Skill. If no separate agreement
+exists, use is governed by the terms below.
+
+ADDITIONAL RESTRICTIONS: Notwithstanding anything to the contrary, users may
+not:
+
+- Reproduce or copy these materials, except for temporary copies created
+  automatically during authorized use
+- Create derivative works based on these materials without attribution
+- Distribute, sublicense, or transfer these materials to any third party
+  without the copyright holder's prior written consent
+- Make, offer to sell, sell, or import any inventions embodied in these
+  materials without permission
+- Reverse engineer, decompile, or disassemble these materials
+
+The receipt, viewing, or possession of these materials does not convey or
+imply any license or right beyond those expressly granted above.
+
+The copyright holder retains all right, title, and interest in these
+materials, including all copyrights, patents, and other intellectual
+property rights.
+
+UPSTREAM ATTRIBUTION: This Skill wraps the MinerU library
+(https://github.com/opendatalab/MinerU), which is licensed under the
+AGPL-3.0. Users of this Skill are responsible for complying with MinerU's
+upstream license terms, available at:
+https://github.com/opendatalab/MinerU/blob/master/LICENSE
